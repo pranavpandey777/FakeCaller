@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Fake Caller</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Recents</string>
+    <string name="title_notifications">Contacts</string>
+    <string name="zero">0\n+</string>
+
+</resources>
